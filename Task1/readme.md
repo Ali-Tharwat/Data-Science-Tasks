@@ -5,7 +5,10 @@ This project analyzes a loan approval dataset to explore applicant features like
 The goal is to uncover patterns and relationships that could inform loan approval decisions.  
 
 ## 📂 Dataset  
-The dataset (`loan_approval_dataset.csv`) contains **5,000 rows** and **14 columns**, including:  
+
+The dataset (`loan_approval_dataset.csv`) : https://www.kaggle.com/datasets/suryadeepthi/loan-approval-dataset
+
+contains **5,000 rows** and **14 columns**, including:  
 - Numerical: `Income`, `Loan_Amount`, `Credit_Score`  
 - Categorical: `Employment_Status`, `Marital_Status`, `Property_Ownership`  
 
